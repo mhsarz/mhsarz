@@ -1,14 +1,18 @@
-# Hi there, I'm Mahsa! 👋 🧠💻
-
-I am a **Computer Science** student at the **Lassonde School of Engineering**, York University. I am deeply interested in the intersection of **Neuroscience**, **Psychology**, and technology—specifically how we can build better systems by understanding the human mind.
+<h1 align="center">Hi there, I'm Mahsa! 👋🧠💻</h1>
+<p align="center">
+  <em>Computer Science student exploring where the human mind meets software.</em>
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** CS Student @ York University, Lassonde School Of Engineering
-- 🧠 **Interests:** Human-Computer Interaction (HCI), Cognitive Science, Neuroscience, and Psychology
-- 🛠️ **Current Focus:** Building personal projects that bridge psychology and software
-- ⚡ **Fun Fact:** If I'm not coding, you'll find me in the kitchen baking a sweet treat! 🙂‍↔️
+
+I'm a **Computer Science** student at the **Lassonde School of Engineering, York University**. I'm fascinated by the intersection of **neuroscience**, **psychology**, and technology, and specifically by how understanding the human mind can help us build better, more human-centered systems.
+
+- 🎓 **Education:** B.Sc. Computer Science @ York University, Lassonde School of Engineering
+- 🧠 **Interests:** Human-Computer Interaction (HCI), Cognitive Science, Neuroscience, Psychology
+- 🤝 **Open to:** Research opportunities, internships, and collaborations in HCI and cognitive tech
+- 🧁 **Fun fact:** When I'm not coding, you'll find me in the kitchen baking a sweet treat!
 
 ---
 
@@ -16,18 +20,28 @@ I am a **Computer Science** student at the **Lassonde School of Engineering**, Y
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
 | **Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| **Tools & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| **Architecture** | RISC-V, Computer Architecture, Pipelining |
+| **Tools & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+| **Architecture** | RISC-V · Computer Architecture · Pipelining |
+
 
 ---
 
 ### 📊 GitHub Stats
-![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Mahsa's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahsabarzegar/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahsabarzegar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center"><em>"The mind is not a vessel to be filled, but a fire to be kindled." — Plutarch</em></p>
