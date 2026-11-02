@@ -31,8 +31,8 @@ I'm a **Computer Science** student at the **Lassonde School of Engineering, York
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Mahsa's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhsarz&show_icons=true&theme=radical&hide_border=true" alt="Mahsa's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsarz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ I'm a **Computer Science** student at the **Lassonde School of Engineering, York
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahsabarzegar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mahsaawb.r@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><em>"The mind is not a vessel to be filled, but a fire to be kindled." — Plutarch</em></p>
